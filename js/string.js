@@ -25,4 +25,5 @@ console.log(text.toLowerCase());
 let pedacoString = text.slice(3,8)
 console.log(pedacoString);
 
-// parei no minuto 1:33:26 da aula
+let stringVirouArray = text.split(' ');
+console.log(stringVirouArray);
